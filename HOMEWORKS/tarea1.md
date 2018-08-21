@@ -1,8 +1,12 @@
 
 Temas Selectos de Programacion.
+
 Ing. Marduk Perez de Lara.
+
 Tarea No.1
-22/Agosto/2018
+
+22/Agosto/2018.
+
 López Velázquez Victor David.
 
 #Temas Relevantes del computo movil.
@@ -13,6 +17,7 @@ A pesar de que las novelas de ciencia ficción lo anticipaban, no deja de sorpre
 Aquí algunos ejemplos:
 
 **Manejo de pacientes**. La computación móvil permite al médico o institución mantener contacto con un paciente cuyo estado requiere continua vigilancia. Y esto no se limita al envío o recepción de mensajes (hablados o escritos), sino que incluye también el monitoreo constante de signos vitales críticos que pueden anticipar una emergencia.
+
 **Ventas directas.** Posiblemente ésta sea la aplicación más evidente: poder consultar inventarios, precios y realizar pedidos en forma inmediata resulta de particular interés para cualquier empresa que se dedique a la comercialización de productos.
 **Servicio a clientes.** La asesoría, servicio técnico y consultoría es una área en donde la computación móvil es vital. La consulta a bancos de información, bases de datos inteligentes, acopio de información actualizada y consulta de especialistas, es sólo una pequeña muestra de todo lo que puede impactar esta tecnología, sin mencionar la posibilidad de contacto permanente con el cliente.
 **Personal móvil en oficinas.** No es raro encontrar a personal que, pese a encontrarse siempre en el mismo edificio, se mudan de lugar con frecuencia para, por ejemplo, dar soporte técnico al personal o revisar proyectos. La computación móvil no sólo les permite ser localizados con facilidad, sino que también le auxilia en la consulta de datos que por lo regular estarían en su oficina.
