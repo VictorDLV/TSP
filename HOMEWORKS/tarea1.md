@@ -1,10 +1,7 @@
 
 Temas Selectos de Programacion.
-
 Ing. Marduk Perez de Lara.
-
 Tarea No.1
-
 22/Agosto/2018.
 
 López Velázquez Victor David.
@@ -16,14 +13,13 @@ López Velázquez Victor David.
 A pesar de que las novelas de ciencia ficción lo anticipaban, no deja de sorprender la diversidad de aplicaciones que tiene hoy en día el computo movil y ademas que podria tener en el futuro. Hay varios campos en los que no sólo es de utilidad, sino de competencia esencial para las empresas. 
 Aquí algunos ejemplos:
 
-**Manejo de pacientes**. La computación móvil permite al médico o institución mantener contacto con un paciente cuyo estado requiere continua vigilancia. Y esto no se limita al envío o recepción de mensajes (hablados o escritos), sino que incluye también el monitoreo constante de signos vitales críticos que pueden anticipar una emergencia.
-
-**Ventas directas.** Posiblemente ésta sea la aplicación más evidente: poder consultar inventarios, precios y realizar pedidos en forma inmediata resulta de particular interés para cualquier empresa que se dedique a la comercialización de productos.
-**Servicio a clientes.** La asesoría, servicio técnico y consultoría es una área en donde la computación móvil es vital. La consulta a bancos de información, bases de datos inteligentes, acopio de información actualizada y consulta de especialistas, es sólo una pequeña muestra de todo lo que puede impactar esta tecnología, sin mencionar la posibilidad de contacto permanente con el cliente.
-**Personal móvil en oficinas.** No es raro encontrar a personal que, pese a encontrarse siempre en el mismo edificio, se mudan de lugar con frecuencia para, por ejemplo, dar soporte técnico al personal o revisar proyectos. La computación móvil no sólo les permite ser localizados con facilidad, sino que también le auxilia en la consulta de datos que por lo regular estarían en su oficina.
-**Profesionales viajeros.** Los modernos guerreros del camino son usuarios potenciales que pueden aprovechar esta herramienta: contadores con los registros de una empresa bajo el brazo, gerentes regionales que integran metas empresariales, dirigentes corporativos que requieren información actualizada y, en fin, una gran cantidad de personas que necesitan viajar para realizar su trabajo.
-**Manejo de sucursales.** En un mundo en el que las empresas han dejado de tener una sola oficina para expandirse, las sucursales aparecen casi sin desearlo, con una gran cantidad de datos que deben consolidarse.
-**Grupos de trabajo.** La gobalización y expansión de empresas hace que sea cada vez más común atacar proyectos con el personal adecuado, el cual no siempre trabaja bajo un mismo techo y, en ocasiones, ni siquiera en la misma ciudad o país.
++**Manejo de pacientes**. La computación móvil permite al médico o institución mantener contacto con un paciente cuyo estado requiere continua vigilancia. Y esto no se limita al envío o recepción de mensajes (hablados o escritos), sino que incluye también el monitoreo constante de signos vitales críticos que pueden anticipar una emergencia.
++**Ventas directas.** Posiblemente ésta sea la aplicación más evidente: poder consultar inventarios, precios y realizar pedidos en forma inmediata resulta de particular interés para cualquier empresa que se dedique a la comercialización de productos.
++**Servicio a clientes.** La asesoría, servicio técnico y consultoría es una área en donde la computación móvil es vital. La consulta a bancos de información, bases de datos inteligentes, acopio de información actualizada y consulta de especialistas, es sólo una pequeña muestra de todo lo que puede impactar esta tecnología, sin mencionar la posibilidad de contacto permanente con el cliente.
++**Personal móvil en oficinas.** No es raro encontrar a personal que, pese a encontrarse siempre en el mismo edificio, se mudan de lugar con frecuencia para, por ejemplo, dar soporte técnico al personal o revisar proyectos. La computación móvil no sólo les permite ser localizados con facilidad, sino que también le auxilia en la consulta de datos que por lo regular estarían en su oficina.
++**Profesionales viajeros.** Los modernos guerreros del camino son usuarios potenciales que pueden aprovechar esta herramienta: contadores con los registros de una empresa bajo el brazo, gerentes regionales que integran metas empresariales, dirigentes corporativos que requieren información actualizada y, en fin, una gran cantidad de personas que necesitan viajar para realizar su trabajo.
++**Manejo de sucursales.** En un mundo en el que las empresas han dejado de tener una sola oficina para expandirse, las sucursales aparecen casi sin desearlo, con una gran cantidad de datos que deben consolidarse.
++**Grupos de trabajo.** La gobalización y expansión de empresas hace que sea cada vez más común atacar proyectos con el personal adecuado, el cual no siempre trabaja bajo un mismo techo y, en ocasiones, ni siquiera en la misma ciudad o país.
 
 [La interacción del Cómputo móvil](http://www.posgradoeinvestigacion.uadec.mx/imagenes/1.CC/CC27/5.4.jpg)
 
