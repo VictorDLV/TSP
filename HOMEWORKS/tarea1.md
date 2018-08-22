@@ -19,6 +19,7 @@
 + **Educacion.** Las generaciones actuales están creciendo con las aplicaciones móviles que les sirven en clase y que les hacen hasta los ejercicios con simuladores y calculadoras científicas disponibles desde la palma de su mano.  
 + **Negocios.** Socialización masiva, cada vez más personas utilizan dispositivos de cómputo móvil. Desde una laptop hasta un Smartphone, sin olvidar las Netbooks y las UMPC (Ultra Mobile PC). La industria del software, mercadotecnia e incluso el entretenimiento, entre otras, han puesto considerable atención al desarrollo de aplicaciones para el cómputo móvil, resultando en un impulso adicional a la tendencia mencionada.
 + **La Nube (The Cloud, Cloud Computing).** Es parte de esta revolución digital, y apuesta por la dominancia de la movilidad de información e incluso el cómputo en sí, manteniendo la informacion en la nube.
++ **Redes celulares.** Los datos de paquetes celulares (CDPD), utiliza la misma tecnología y algunos de los sistemas de teléfonos móviles celulares. Ofrecen transmisiones de datos de equipo sobre redes de voz analógicas siempre y cuando el sistema no esté ocupado.
 
 [La interacción del Cómputo móvil](http://www.posgradoeinvestigacion.uadec.mx/imagenes/1.CC/CC27/5.4.jpg)
 
@@ -28,3 +29,4 @@
 *https://www.poderpda.com/noticias/el-impacto-del-computo-movil-en-la-educacion/*
 *https://www.monografias.com/trabajos5/compumo/compumo.shtml*
 *http://www.posgradoeinvestigacion.uadec.mx/CienciaCierta/CC27/5.html*
+*https://es.wikipedia.org/wiki/Computaci%C3%B3n_m%C3%B3vil*
