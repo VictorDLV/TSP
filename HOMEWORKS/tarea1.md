@@ -1,13 +1,13 @@
 
-> Temas Selectos de Programacion.
-> Ing. Marduk Perez de Lara.
-> Tarea No.1
-> 22/Agosto/2018.
+> Temas Selectos de Programación.  
+> Ing. Marduk Perez de Lara.  
+> Tarea No.1  
+> 22/Agosto/2018.  
 > López Velázquez Victor David.
 
-# Temas Relevantes del computo movil.
+# Temas Relevantes del Computo Móvil.
 
-## Aplicaciones del Computo Movil.
+## Aplicaciones del Computo Móvil.
 
 A pesar de que las novelas de ciencia ficción lo anticipaban, no deja de sorprender la diversidad de aplicaciones que tiene hoy en día el computo movil y ademas que podria tener en el futuro. Hay varios campos en los que no sólo es de utilidad, sino de competencia esencial para las empresas. 
 Aquí algunos ejemplos:
@@ -22,10 +22,8 @@ Aquí algunos ejemplos:
 
 [La interacción del Cómputo móvil](http://www.posgradoeinvestigacion.uadec.mx/imagenes/1.CC/CC27/5.4.jpg)
 
-En México el computo movil apenas empieza a completarse como tema de interes para los jovenes, recordemos que las TICs en México se desarrollan de una manera rapida y podemos vaticinar lo que traeran las promesas juveniles mediante herramientas como el computo móvil, por ejemplo mediante los smartphones o iphones aunque en México la economía no siempre es la adecuada para poder desplegar estas habilidades, ademas importa el contexto academico en el que los alumnos se encuentran, de cierta manera las escuelas proporcionan informacion y docentes preparados para brindar una buena educacion y que sea aprovechada de la mejor manera por los jovenes estudiantes, mediante estos accesorios se pueden ir adquiriendo habilidades que mas tarde se pueden centralizar en una carrera profesional, claro que no hay que abusar.
-Las generaciones actuales están creciendo con las aplicaciones móviles que les sirven en clase y que les hacen hasta los ejercicios con simuladores y calculadoras científicas disponibles desde la palma de su mano. Desgraciadamente, el uso abusivo que hacen los alumnos para hacer llamadas y mensajes, está llevando a que los profesores vean a celulares y smartphones como un enemigo cómún a vencer y no como el aliado que son.
-
-Y esto se comprueba sobre todo en época de prueba, porque las "trampas", y "acordeones", ya no están pegados como antes en la tapa del celular o debajo del mismo, sino dentro de un mensaje de texto, o en un archivo adjunto. Por eso es que ahora se le solicita a los alumnos que apaguen los equipos o que los coloquen en la mesa del profesor, en exámenes y en ocasiones, en periodos de clase.  Y lo peor es  llegar a confiscar los equipos que en ocasiones no se devuelven.
+En México, el computo móvil apenas empieza a completarse como tema de interes para los jovenes, recordemos que las TICs en México se desarrollan de una manera rapida y podemos vaticinar lo que traeran las promesas juveniles mediante herramientas como el computo móvil, por ejemplo mediante los smartphones o iphones aunque en México la economía no siempre es la adecuada para poder desplegar estas habilidades, ademas importa el contexto academico en el que los alumnos se encuentran, de cierta manera las escuelas proporcionan informacion y docentes preparados para brindar una buena educacion y que sea aprovechada de la mejor manera por los jovenes estudiantes, mediante estos accesorios se pueden ir adquiriendo habilidades que mas tarde se pueden centralizar en una carrera profesional, claro que no hay que abusar.
+Las generaciones actuales están creciendo con las aplicaciones móviles que les sirven en clase y que les hacen hasta los ejercicios con simuladores y calculadoras científicas disponibles desde la palma de su mano. Desgraciadamente, el uso abusivo que hacen los alumnos para hacer llamadas y mensajes, está llevando a que los profesores vean a celulares y smartphones como un enemigo cómún a vencer y no como el aliado que son.  Y esto se comprueba sobre todo en época de prueba, porque las "trampas", y "acordeones", ya no están pegados como antes en la tapa del celular o debajo del mismo, sino dentro de un mensaje de texto, o en un archivo adjunto. Por eso es que ahora se le solicita a los alumnos que apaguen los equipos o que los coloquen en la mesa del profesor, en exámenes y en ocasiones, en periodos de clase.  Y lo peor es  llegar a confiscar los equipos que en ocasiones no se devuelven.
 
 **Tendencia mundial y nacional**
 Incitado por la necesidad de hacer negocios en el momento, así como la intensidad de la socialización masiva, cada vez más personas utilizan dispositivos de cómputo móvil. Desde una laptop hasta un Smartphone, sin olvidar las Netbooks y las UMPC (Ultra Mobile PC). La industria del software, mercadotecnia e incluso el entretenimiento, entre otras, han puesto considerable atención al desarrollo de aplicaciones para el cómputo móvil, resultando en un impulso adicional a la tendencia mencionada.
