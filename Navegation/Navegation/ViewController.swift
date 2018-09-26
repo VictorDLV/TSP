@@ -10,6 +10,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var segueSwitch: UISwitch!
+    
+    @IBAction func segueButton(_ sender: Any) {
+        if segueSwitch.isOn{
+            performSegue(withIdentifier: "Green" , sender: nil)
+        }
+        else{
+        performSegue(withIdentifier: "Yellow", sender: nil)
+    }
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -23,6 +33,6 @@ class ViewController: UIViewController {
     @IBAction func unwindToRed(unwindSegue : UIStoryboardSegue){
         
     }
-
+   
 }
 
