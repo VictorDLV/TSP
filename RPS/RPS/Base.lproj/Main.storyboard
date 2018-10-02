@@ -82,7 +82,13 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="appSign" destination="SLS-6J-eu8" id="UmC-cR-5Rr"/>
                         <outlet property="paper" destination="fMx-o9-si7" id="DPt-mK-sQL"/>
+                        <outlet property="paperSign" destination="fMx-o9-si7" id="o8M-eo-M6T"/>
+                        <outlet property="playAgainButton" destination="Eig-lV-CSq" id="OZI-c3-w0H"/>
+                        <outlet property="rockSing" destination="veP-AU-Sqh" id="ySN-IU-sJH"/>
+                        <outlet property="scissorsSign" destination="Q6R-0a-5Ad" id="Eck-E2-nTU"/>
+                        <outlet property="statusOfGame" destination="swI-58-xR7" id="ir3-xJ-ady"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
