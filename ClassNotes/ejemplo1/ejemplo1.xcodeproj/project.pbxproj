@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ACF7E33B2180E1DB0073E848 /* ImageDownloaderDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF7E33A2180E1DB0073E848 /* ImageDownloaderDelegate.swift */; };
 		FA68F2C0217E4167003F8F93 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA68F2BF217E4167003F8F93 /* AppDelegate.swift */; };
 		FA68F2C2217E4167003F8F93 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA68F2C1217E4167003F8F93 /* ViewController.swift */; };
 		FA68F2C5217E4167003F8F93 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA68F2C3217E4167003F8F93 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ACF7E33A2180E1DB0073E848 /* ImageDownloaderDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDownloaderDelegate.swift; sourceTree = "<group>"; };
 		FA68F2BC217E4167003F8F93 /* ejemplo1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ejemplo1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA68F2BF217E4167003F8F93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA68F2C1217E4167003F8F93 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FA68F2C6217E4168003F8F93 /* Assets.xcassets */,
 				FA68F2C8217E4168003F8F93 /* LaunchScreen.storyboard */,
 				FA68F2CB217E4168003F8F93 /* Info.plist */,
+				ACF7E33A2180E1DB0073E848 /* ImageDownloaderDelegate.swift */,
 			);
 			path = ejemplo1;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA68F2C2217E4167003F8F93 /* ViewController.swift in Sources */,
+				ACF7E33B2180E1DB0073E848 /* ImageDownloaderDelegate.swift in Sources */,
 				FA68F2D2217E445A003F8F93 /* ImageDownloader.swift in Sources */,
 				FA68F2C0217E4167003F8F93 /* AppDelegate.swift in Sources */,
 			);

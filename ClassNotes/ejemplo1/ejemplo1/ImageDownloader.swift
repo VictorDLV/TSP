@@ -10,12 +10,11 @@ import Foundation
 import UIKit
 
 class ImageDownloader {
+    var delegate:ImageDownloaderDelegate? // el delegado
     var imageUrl : String
     var image: UIImage?
-    var view: ViewController
-    init(imageUrl : String, view : ViewController){
+    init(imageUrl : String){
         self.imageUrl = imageUrl
-        self.view = view
     }
     func downLoadImage(){
         // aqui voy a hacer todo para bajar la imagen
@@ -24,9 +23,16 @@ class ImageDownloader {
                 let imageUrlUnwrapped = URL(string: self.imageUrl),
                 let imageData = NSData(contentsOf: imageUrlUnwrapped),
                 let image = UIImage(data: imageData as Data)else {return}
+                self.image = image
+                print("image successful dowload")
+                DispatchQueue.main.async {
+                self.didDownLoadImage()
+            }
         }
     }
     func didDownLoadImage(){
         // aqui hago una vez que se bajo la imagen
+        print("Now, How change the poperties of the ViewController?")
+        delegate?.didFinishDownload(self)
     }
 }
