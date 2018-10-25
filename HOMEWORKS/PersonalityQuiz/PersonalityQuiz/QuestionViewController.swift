@@ -23,11 +23,31 @@ class QuestionViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBOutlet weak var questionLabel: UILabel!
     @IBOutlet weak var singleStackView: UIStackView!
     
     @IBOutlet weak var multipleStackView: UIStackView!
     
     @IBOutlet weak var rangedStackView: UIStackView!
+    
+//creamos las salidas de los botones de la stack de una unica respuesta
+    
+    @IBOutlet weak var singleButton1: UIButton!
+    @IBOutlet weak var singleButon2: UIButton!
+    @IBOutlet weak var singleButon3: UIButton!
+    @IBOutlet weak var singleButon4: UIButton!
+//creamos las salidas de los label para las respuestas multiples
+    
+    @IBOutlet weak var multiLabel1: UILabel!
+    @IBOutlet weak var multiLabel2: UILabel!
+    @IBOutlet weak var multiLabel3: UILabel!
+    @IBOutlet weak var multiLabel4: UILabel!
+    
+//creamos las salidas para los label de respuesta de rango
+    
+    @IBOutlet weak var rangedLabel1: UILabel!
+    @IBOutlet weak var rangedLabel2: UILabel!
+    @IBOutlet weak var questionProgressView: UIProgressView!
     
     var questionIndex = 0
     
@@ -61,22 +81,36 @@ class QuestionViewController: UIViewController {
         multipleStackView.isHidden = true
         rangedStackView.isHidden = true
         
-        navigationItem.title = "Question #\(questionIndex+1)"
-        
+        //navigationItem.title = "Question #\(questionIndex+1)"
         let currentQuestion = questions[questionIndex]
+        let currentAnswers = currentQuestion.answers
+        let totalProgress = Float(questionIndex) /
+Float(questions.count)
+        
+        navigationItem.title = "Question #\(questionIndex+1)"
+        questionLabel.text = currentQuestion.text
+        questionProgressView.setProgress(totalProgress, animated: true)
+        
         
         switch currentQuestion.type {
         case .single:
-            singleStackView.isHidden = false
+            updateSingleStack(using: currentAnswers)
         case .multiple:
-            multipleStackView.isHidden = false
+            updateMultipleStack(using: currentAnswers)
         case .ranged:
-            rangedStackView.isHidden = false
+            updateRangedStack(using: currentAnswers)
         }
-       
+    }
+
+//creamos las funciones para el currentQuestion
+    func updateSingleStack(using answers: [Answer]) {
+        singleStackView.isHidden = false
+        singleButton1.setTitle(answers[0].text, for: .normal)
+        singleButton2.setTitle(answers[1].text, for: .normal)
+        singleButton3.setTitle(answers[2].text, for: .normal)
+        singleButton4.setTitle(answers[3].text, for: .normal)
     }
    
-    
 
     /*
     // MARK: - Navigation

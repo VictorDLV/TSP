@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina5_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
-        <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -242,8 +240,20 @@
                     </view>
                     <navigationItem key="navigationItem" id="NJr-5h-7iL"/>
                     <connections>
+                        <outlet property="multiLabel1" destination="KBQ-9L-QOh" id="C78-0d-5Qm"/>
+                        <outlet property="multiLabel2" destination="t8y-Zo-eOp" id="xfy-iO-PLj"/>
+                        <outlet property="multiLabel3" destination="qDo-fJ-HLJ" id="UMM-9u-gKc"/>
+                        <outlet property="multiLabel4" destination="4P6-5Q-NWn" id="0TF-HN-pq8"/>
                         <outlet property="multipleStackView" destination="gIh-2z-Blr" id="0Hq-eo-Fic"/>
+                        <outlet property="questionLabel" destination="UeQ-es-f4C" id="3Y8-2r-Ygj"/>
+                        <outlet property="questionProgressView" destination="vvD-0z-tql" id="SdW-ar-v0y"/>
+                        <outlet property="rangedLabel1" destination="UDV-7l-fN4" id="Mmn-e2-07D"/>
+                        <outlet property="rangedLabel2" destination="uEq-WH-vja" id="FA7-8B-ASB"/>
                         <outlet property="rangedStackView" destination="o6t-h3-MMK" id="3CA-7S-4jP"/>
+                        <outlet property="singleButon2" destination="fFW-En-QFk" id="7kN-yE-LBT"/>
+                        <outlet property="singleButon3" destination="f4P-zN-bKk" id="iDR-pQ-oXa"/>
+                        <outlet property="singleButon4" destination="2Fi-nS-h4C" id="HAR-ub-OCn"/>
+                        <outlet property="singleButton1" destination="EYX-7b-X5a" id="P5r-rY-Qne"/>
                         <outlet property="singleStackView" destination="Fjx-BU-2dy" id="bwo-u4-CrG"/>
                         <segue destination="Pv0-U5-Z3x" kind="show" identifier="ResultsSegue" id="aAc-Hl-skL"/>
                     </connections>
