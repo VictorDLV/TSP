@@ -242,6 +242,9 @@
                     </view>
                     <navigationItem key="navigationItem" id="NJr-5h-7iL"/>
                     <connections>
+                        <outlet property="multipleStackView" destination="gIh-2z-Blr" id="0Hq-eo-Fic"/>
+                        <outlet property="rangedStackView" destination="o6t-h3-MMK" id="3CA-7S-4jP"/>
+                        <outlet property="singleStackView" destination="Fjx-BU-2dy" id="bwo-u4-CrG"/>
                         <segue destination="Pv0-U5-Z3x" kind="show" identifier="ResultsSegue" id="aAc-Hl-skL"/>
                     </connections>
                 </viewController>
@@ -258,7 +261,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="hRO-bO-Ytg">
-                                <rect key="frame" x="149" y="328" width="116.66666666666669" height="80.333333333333314"/>
+                                <rect key="frame" x="148.66666666666666" y="328" width="116.66666666666666" height="80.333333333333314"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H3e-ZX-13j">
                                         <rect key="frame" x="0.0" y="0.0" width="116.66666666666667" height="60"/>
