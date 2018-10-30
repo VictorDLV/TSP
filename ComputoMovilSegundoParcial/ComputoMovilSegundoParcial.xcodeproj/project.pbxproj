@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC2F319D2188BC3100801ECF /* TriviaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2F319C2188BC3100801ECF /* TriviaTableViewCell.swift */; };
+		AC2F31A12188BEAD00801ECF /* TriviaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2F31A02188BEAD00801ECF /* TriviaViewController.swift */; };
+		AC2F31A52188C3DF00801ECF /* Mole.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC2F31A22188C3DF00801ECF /* Mole.jpg */; };
+		AC2F31A62188C3DF00801ECF /* Tlayudas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC2F31A32188C3DF00801ECF /* Tlayudas.jpg */; };
+		AC2F31A72188C3DF00801ECF /* Tamales.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC2F31A42188C3DF00801ECF /* Tamales.jpg */; };
 		ACEB3F762187785700715BDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEB3F752187785700715BDC /* AppDelegate.swift */; };
 		ACEB3F782187785700715BDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEB3F772187785700715BDC /* ViewController.swift */; };
 		ACEB3F7B2187785700715BDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACEB3F792187785700715BDC /* Main.storyboard */; };
@@ -14,7 +19,6 @@
 		ACEB3F802187785800715BDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACEB3F7E2187785800715BDC /* LaunchScreen.storyboard */; };
 		ACEB3F8B2187785800715BDC /* ComputoMovilSegundoParcialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEB3F8A2187785800715BDC /* ComputoMovilSegundoParcialTests.swift */; };
 		ACEB3F962187785800715BDC /* ComputoMovilSegundoParcialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEB3F952187785800715BDC /* ComputoMovilSegundoParcialUITests.swift */; };
-		ACEB3FA4218778F200715BDC /* A&D_Software__#5_brand_usage_#1_created_by_logaster.png in Resources */ = {isa = PBXBuildFile; fileRef = ACEB3FA3218778F100715BDC /* A&D_Software__#5_brand_usage_#1_created_by_logaster.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC2F319C2188BC3100801ECF /* TriviaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaTableViewCell.swift; sourceTree = "<group>"; };
+		AC2F31A02188BEAD00801ECF /* TriviaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaViewController.swift; sourceTree = "<group>"; };
+		AC2F31A22188C3DF00801ECF /* Mole.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Mole.jpg; path = ../../../Downloads/Mole.jpg; sourceTree = "<group>"; };
+		AC2F31A32188C3DF00801ECF /* Tlayudas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Tlayudas.jpg; path = ../../../Downloads/Tlayudas.jpg; sourceTree = "<group>"; };
+		AC2F31A42188C3DF00801ECF /* Tamales.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Tamales.jpg; path = ../../../Downloads/Tamales.jpg; sourceTree = "<group>"; };
 		ACEB3F722187785700715BDC /* ComputoMovilSegundoParcial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ComputoMovilSegundoParcial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACEB3F752187785700715BDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACEB3F772187785700715BDC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +57,6 @@
 		ACEB3F912187785800715BDC /* ComputoMovilSegundoParcialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ComputoMovilSegundoParcialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACEB3F952187785800715BDC /* ComputoMovilSegundoParcialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComputoMovilSegundoParcialUITests.swift; sourceTree = "<group>"; };
 		ACEB3F972187785800715BDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ACEB3FA3218778F100715BDC /* A&D_Software__#5_brand_usage_#1_created_by_logaster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "A&D_Software__#5_brand_usage_#1_created_by_logaster.png"; path = "../../../Downloads/A&D_Software__#5_brand_usage_#1_created_by_logaster.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,11 +107,15 @@
 		ACEB3F742187785700715BDC /* ComputoMovilSegundoParcial */ = {
 			isa = PBXGroup;
 			children = (
-				ACEB3FA3218778F100715BDC /* A&D_Software__#5_brand_usage_#1_created_by_logaster.png */,
+				AC2F31A02188BEAD00801ECF /* TriviaViewController.swift */,
 				ACEB3F752187785700715BDC /* AppDelegate.swift */,
 				ACEB3F772187785700715BDC /* ViewController.swift */,
 				ACEB3F792187785700715BDC /* Main.storyboard */,
+				AC2F319C2188BC3100801ECF /* TriviaTableViewCell.swift */,
 				ACEB3F7C2187785800715BDC /* Assets.xcassets */,
+				AC2F31A22188C3DF00801ECF /* Mole.jpg */,
+				AC2F31A42188C3DF00801ECF /* Tamales.jpg */,
+				AC2F31A32188C3DF00801ECF /* Tlayudas.jpg */,
 				ACEB3F7E2187785800715BDC /* LaunchScreen.storyboard */,
 				ACEB3F812187785800715BDC /* Info.plist */,
 			);
@@ -232,10 +244,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC2F31A52188C3DF00801ECF /* Mole.jpg in Resources */,
+				AC2F31A72188C3DF00801ECF /* Tamales.jpg in Resources */,
 				ACEB3F802187785800715BDC /* LaunchScreen.storyboard in Resources */,
+				AC2F31A62188C3DF00801ECF /* Tlayudas.jpg in Resources */,
 				ACEB3F7D2187785800715BDC /* Assets.xcassets in Resources */,
 				ACEB3F7B2187785700715BDC /* Main.storyboard in Resources */,
-				ACEB3FA4218778F200715BDC /* A&D_Software__#5_brand_usage_#1_created_by_logaster.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,8 +274,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC2F319D2188BC3100801ECF /* TriviaTableViewCell.swift in Sources */,
 				ACEB3F782187785700715BDC /* ViewController.swift in Sources */,
 				ACEB3F762187785700715BDC /* AppDelegate.swift in Sources */,
+				AC2F31A12188BEAD00801ECF /* TriviaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
