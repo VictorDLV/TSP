@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC05A0162188B03C00AF3BE7 /* Platillo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC05A0152188B03C00AF3BE7 /* Platillo.swift */; };
+		AC05A01E2188BACC00AF3BE7 /* CeldaPlatilloTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC05A01D2188BACC00AF3BE7 /* CeldaPlatilloTableViewCell.swift */; };
+		AC05A0202188C6E500AF3BE7 /* DetallesPlatosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC05A01F2188C6E500AF3BE7 /* DetallesPlatosViewController.swift */; };
 		AC2427D62187869100E2A962 /* GastronomiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2427D52187869100E2A962 /* GastronomiaViewController.swift */; };
 		ACEB3F762187785700715BDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEB3F752187785700715BDC /* AppDelegate.swift */; };
 		ACEB3F782187785700715BDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEB3F772187785700715BDC /* ViewController.swift */; };
@@ -35,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC05A0152188B03C00AF3BE7 /* Platillo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Platillo.swift; sourceTree = "<group>"; };
+		AC05A01D2188BACC00AF3BE7 /* CeldaPlatilloTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CeldaPlatilloTableViewCell.swift; sourceTree = "<group>"; };
+		AC05A01F2188C6E500AF3BE7 /* DetallesPlatosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetallesPlatosViewController.swift; sourceTree = "<group>"; };
 		AC2427D12187862600E2A962 /* ComputoMovilSegundoParcial-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ComputoMovilSegundoParcial-Bridging-Header.h"; sourceTree = "<group>"; };
 		AC2427D52187869100E2A962 /* GastronomiaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GastronomiaViewController.swift; sourceTree = "<group>"; };
 		ACEB3F722187785700715BDC /* ComputoMovilSegundoParcial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ComputoMovilSegundoParcial.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,11 +109,14 @@
 				ACEB3F752187785700715BDC /* AppDelegate.swift */,
 				ACEB3F772187785700715BDC /* ViewController.swift */,
 				AC2427D52187869100E2A962 /* GastronomiaViewController.swift */,
+				AC05A01D2188BACC00AF3BE7 /* CeldaPlatilloTableViewCell.swift */,
+				AC05A01F2188C6E500AF3BE7 /* DetallesPlatosViewController.swift */,
 				ACEB3F792187785700715BDC /* Main.storyboard */,
 				ACEB3F7C2187785800715BDC /* Assets.xcassets */,
 				ACEB3F7E2187785800715BDC /* LaunchScreen.storyboard */,
 				ACEB3F812187785800715BDC /* Info.plist */,
 				AC2427D12187862600E2A962 /* ComputoMovilSegundoParcial-Bridging-Header.h */,
+				AC05A0152188B03C00AF3BE7 /* Platillo.swift */,
 			);
 			path = ComputoMovilSegundoParcial;
 			sourceTree = "<group>";
@@ -263,7 +272,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACEB3F782187785700715BDC /* ViewController.swift in Sources */,
+				AC05A0202188C6E500AF3BE7 /* DetallesPlatosViewController.swift in Sources */,
+				AC05A0162188B03C00AF3BE7 /* Platillo.swift in Sources */,
 				AC2427D62187869100E2A962 /* GastronomiaViewController.swift in Sources */,
+				AC05A01E2188BACC00AF3BE7 /* CeldaPlatilloTableViewCell.swift in Sources */,
 				ACEB3F762187785700715BDC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
