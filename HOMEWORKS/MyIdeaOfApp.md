@@ -8,3 +8,8 @@ TENGO ALGUNAS IDEAS PARA EL DESARROLLO DEL PROYECTO.
 
 3.-Mi idea es crear una aplicación en la que se pueda diseñar iconos e imagenes, por ejemplo logotipos e incluso quizas animaciones tipo GIF, la aplicación que tengo pensada contará con herramientas de dibujo y edición, una especie de paint pero padaptada a un smartphone o en este caso un iphone.  
 _ _ _
+
+IDEA DEFINITIVA PARA EL PROYECTO.
+
+De acuerdo a lon aprendido en clase, mi idea es crear una aplicacion 
+- - -
